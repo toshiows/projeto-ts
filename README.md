@@ -1,0 +1,2 @@
+# projeto-ts
+Typescript studies
